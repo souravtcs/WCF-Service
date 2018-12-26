@@ -1,0 +1,46 @@
+﻿using SrvcConsumer.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using WcfService_IIS;
+
+namespace SrvcConsumer.Controllers
+{
+    public class HomeController : Controller
+    {
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        public ActionResult About()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+
+        public ActionResult ConsumeSvc()
+        {
+            Service1 svc = new Service1();
+            List<ViewModel> data = new List<ViewModel>();
+            data = svc.GetOpeningJobs().Select(s=> 
+            new ViewModel{
+                JobId = s.JobId,
+                JobName =s.JobName,
+                Role = s.Role
+            }).ToList();
+            return View("Index", data);
+
+        }
+    }
+}

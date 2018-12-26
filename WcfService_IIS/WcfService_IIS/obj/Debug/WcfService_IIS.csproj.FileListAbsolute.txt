@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\WcfService_IIS\WcfService_IIS\bin\WcfService_IIS.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\WcfService_IIS\WcfService_IIS\bin\WcfService_IIS.dll
+c:\users\admin\documents\visual studio 2017\Projects\WcfService_IIS\WcfService_IIS\bin\WcfService_IIS.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WcfService_IIS\WcfService_IIS\obj\Debug\WcfService_IIS.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\WcfService_IIS\WcfService_IIS\obj\Debug\WcfService_IIS.dll
+c:\users\admin\documents\visual studio 2017\Projects\WcfService_IIS\WcfService_IIS\obj\Debug\WcfService_IIS.pdb

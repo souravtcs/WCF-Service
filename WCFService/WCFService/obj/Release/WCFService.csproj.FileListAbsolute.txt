@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\WCFService\WCFService\bin\Release\WCFService.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\WCFService\WCFService\bin\Release\WCFService.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\WCFService\WCFService\bin\Release\WCFService.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\WCFService\WCFService\obj\Release\WCFService.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\WCFService\WCFService\obj\Release\WCFService.pdb

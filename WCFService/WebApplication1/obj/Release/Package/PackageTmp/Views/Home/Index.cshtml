@@ -1,0 +1,33 @@
+﻿@model WebApplication1.Models.ViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        @Html.ActionLink("Invoke using Http","InvokeHttp")
+    </div>    
+</div>
+<div class="row">
+    <div class="col-md-4">
+        @Html.DisplayFor(m => m.HttpInvoke.SayHello)
+    </div>
+    <div class="col-md-4">
+        @Html.DisplayFor(m => m.HttpInvoke.SayToday)
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        @Html.ActionLink("Invoke using TCP", "InvokeTCP")
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        @Html.DisplayFor(m => m.TCPInvoke.SayHello)
+    </div>
+    <div class="col-md-4">
+        @Html.DisplayFor(m => m.TCPInvoke.SayToday)
+    </div>
+</div>
+

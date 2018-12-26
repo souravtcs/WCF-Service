@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalculatorService\bin\Debug\CalculatorService.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb

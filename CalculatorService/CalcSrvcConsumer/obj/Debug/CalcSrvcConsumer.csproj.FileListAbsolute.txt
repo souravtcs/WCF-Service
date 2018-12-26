@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\bin\Debug\CalcSrvcConsumer.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\bin\Debug\CalcSrvcConsumer.exe
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\bin\Debug\CalcSrvcConsumer.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\bin\Debug\CalculatorService.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\bin\Debug\CalculatorService.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\bin\Debug\CalculatorService.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\obj\Debug\CalcSrvcConsumer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\obj\Debug\CalcSrvcConsumer.exe
+c:\users\admin\documents\visual studio 2017\Projects\CalculatorService\CalcSrvcConsumer\obj\Debug\CalcSrvcConsumer.pdb

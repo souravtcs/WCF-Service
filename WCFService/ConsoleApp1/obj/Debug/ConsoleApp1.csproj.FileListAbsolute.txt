@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\bin\Debug\WCFService.dll
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\bin\Debug\WCFService.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\bin\Debug\WCFService.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\admin\documents\visual studio 2017\Projects\WCFService\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

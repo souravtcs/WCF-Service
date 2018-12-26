@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorService", "CalculatorService\CalculatorService.csproj", "{29A6177C-DCD1-4187-AB3F-69EA7692B3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcSrvcConsumer", "CalcSrvcConsumer\CalcSrvcConsumer.csproj", "{97C18591-B2E1-42FC-94DC-17A9D5A87FD6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{29A6177C-DCD1-4187-AB3F-69EA7692B3FE} = {29A6177C-DCD1-4187-AB3F-69EA7692B3FE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A6177C-DCD1-4187-AB3F-69EA7692B3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A6177C-DCD1-4187-AB3F-69EA7692B3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A6177C-DCD1-4187-AB3F-69EA7692B3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A6177C-DCD1-4187-AB3F-69EA7692B3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C18591-B2E1-42FC-94DC-17A9D5A87FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C18591-B2E1-42FC-94DC-17A9D5A87FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C18591-B2E1-42FC-94DC-17A9D5A87FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C18591-B2E1-42FC-94DC-17A9D5A87FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
